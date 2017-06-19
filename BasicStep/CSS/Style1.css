@@ -6,3 +6,10 @@
     margin-left:500px;
     margin-top:200px;
 }
+#clickBox2{
+    width:200px;
+    height:100px;
+    background-color:black;
+    cursor:pointer;
+    border-radius:5px;
+}
