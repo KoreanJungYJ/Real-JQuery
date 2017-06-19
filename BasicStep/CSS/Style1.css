@@ -1,0 +1,8 @@
+#clickBox{
+    width:200px;
+    height:200px;
+    border:5px solid plum;
+    cursor:pointer;
+    margin-left:500px;
+    margin-top:200px;
+}
