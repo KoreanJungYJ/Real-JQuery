@@ -3,7 +3,7 @@ $(function(){
 
     $('#box1').on('mouseover',function(){
         $(this).stop(true).animate({
-            backgroundColor: '#65ce47',
+//            backgroundColor: '#65ce47',
             borderRadius:'10px',
             width: '400px',
             height: '500px'
@@ -11,7 +11,7 @@ $(function(){
     })
     .on('mouseout',function(){
         $(this).stop(true).animate({
-            backgroundColor:'#59cf8c',
+//            backgroundColor:'#59cf8c',
             borderRadius:'0px',
             width:'200px',
             height:'100px'
