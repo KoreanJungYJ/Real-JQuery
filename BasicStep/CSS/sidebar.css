@@ -29,6 +29,7 @@ body {
     position: absolute;
     left: 350px;
     border-radius: 2px;
+    cursor: pointer;
 }
 
 #btn #circle {
@@ -39,7 +40,6 @@ body {
     margin: 0 auto;
     margin-top: 25px;
     color: white;
-    cursor: pointer;
     border-style: dotted;
 }
 
